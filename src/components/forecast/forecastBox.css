@@ -1,0 +1,8 @@
+.forecast-box {
+  display: flex;
+  box-sizing: border-box;
+  background: #303441;
+  width: 90%;
+  height: auto;
+  min-height: 280px;
+}
